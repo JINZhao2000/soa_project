@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="aos@rm-4xo63l909kdrexz8kio.mysql.germany.rds.aliyuncs.com" uuid="6a23908b-cbc7-47f3-a6c7-a63cd0448af7">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://rm-4xo63l909kdrexz8kio.mysql.germany.rds.aliyuncs.com:3306/aos</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
